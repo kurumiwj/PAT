@@ -10,6 +10,12 @@ buildNumber.properties
 # https://maven.apache.org/wrapper/#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
+# IDEA
+.idea/
+
+# Giga IDE
+.gigaide/
+
 # Eclipse m2e generated files
 # Eclipse Core
 .project
@@ -17,6 +23,10 @@ buildNumber.properties
 .classpath
 .settings
 bin/
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
 
 # spyder
 .spyproject/

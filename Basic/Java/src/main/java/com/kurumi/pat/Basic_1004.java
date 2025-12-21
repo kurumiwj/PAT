@@ -30,18 +30,18 @@ public class Basic_1004 {
         System.out.println(String.format("%s %s", maxStu.name, maxStu.id));
         System.out.println(String.format("%s %s", minStu.name, minStu.id));
     }
-}
 
-class Student {
-    String name;
-    String id;
-    int score;
+    static class Student {
+        String name;
+        String id;
+        int score;
 
-    public Student() {
-    }
-    public Student(String name, String id, int score) {
-        this.name = name;
-        this.id = id;
-        this.score = score;
+        public Student() {
+        }
+        public Student(String name, String id, int score) {
+            this.name = name;
+            this.id = id;
+            this.score = score;
+        }
     }
 }
