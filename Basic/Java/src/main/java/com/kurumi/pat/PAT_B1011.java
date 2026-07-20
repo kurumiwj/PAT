@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Date 2025-10-25 20:51:40
  * @Description 1011 A+B 和 C
  */
-public class Basic_1011 {
+public class PAT_B1011 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

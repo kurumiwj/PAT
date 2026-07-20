@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @Date 2025-10-18 下午1:45:55
  * @Description 1010 一元多项式求导
  */
-public class Basic_1010 {
+public class PAT_B1010 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Integer> nums = new ArrayList<>();

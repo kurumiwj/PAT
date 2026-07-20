@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Date 2025-10-17 下午4:38:32
  * @Description 1001 害死人不偿命的(3n+1)猜想
  */
-public class Basic_1001 {
+public class PAT_B1001 {
     private static int Callatz(int n) {
         int step = 0;
         while (n != 1) {

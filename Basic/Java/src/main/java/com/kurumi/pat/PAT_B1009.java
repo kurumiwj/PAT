@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * @Date 2025-10-18 下午1:40:14
  * @Description 1009 说反话
  */
-public class Basic_1009 {
+public class PAT_B1009 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] words = scanner.nextLine().split(" ");

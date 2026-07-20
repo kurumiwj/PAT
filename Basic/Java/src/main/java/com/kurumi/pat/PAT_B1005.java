@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * @Date 2025-10-17 下午9:02:32
  * @Description 1005 继续(3n+1)猜想
  */
-public class Basic_1005 {
+public class PAT_B1005 {
     private static Set<Integer> calSet = new HashSet<>();
     private static List<Boolean> keyList = new ArrayList<>();
 

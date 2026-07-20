@@ -8,7 +8,7 @@ import java.util.function.BiFunction;
  * @Date 2025-10-18 下午12:08:34
  * @Description 1006 换个格式输出整数
  */
-public class Basic_1006 {
+public class PAT_B1006 {
     private static BiFunction<String, Integer, String> repeatN = (str, n) -> str.repeat(n);
 
     public static void main(String[] args) {

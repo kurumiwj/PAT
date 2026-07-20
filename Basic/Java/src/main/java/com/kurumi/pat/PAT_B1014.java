@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Date 2025-11-29 11:09:56
  * @Description 1014 福尔摩斯的约会
  */
-public class Basic_1014 {
+public class PAT_B1014 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String str1 = scanner.next();

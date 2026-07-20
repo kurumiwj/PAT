@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
  * @Date 2025-10-18 下午1:35:46
  * @Description 1008 数组元素循环右移问题
  */
-public class Basic_1008 {
+public class PAT_B1008 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

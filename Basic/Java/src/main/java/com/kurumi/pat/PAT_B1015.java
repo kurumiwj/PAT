@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @Date 2025-11-30 14:38:03
  * @Description 1015 德才论
  */
-public class Basic_1015 {
+public class PAT_B1015 {
     static class Student {
         String id;
         int moral;  //德分

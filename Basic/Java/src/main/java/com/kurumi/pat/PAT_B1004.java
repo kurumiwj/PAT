@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Date 2025-10-17 下午5:32:36
  * @Description 1004 成绩排名
  */
-public class Basic_1004 {
+public class PAT_B1004 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

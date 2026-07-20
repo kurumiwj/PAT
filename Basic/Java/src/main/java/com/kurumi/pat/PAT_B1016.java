@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @Date 2026年1月10日 17:53:42
  * @Description 1016 部分A+B
  */
-public class Basic_1016 {
+public class PAT_B1016 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();

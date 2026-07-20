@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @Date 2025-10-17 下午5:18:10
  * @Description 1003 我要通过！
  */
-public class Basic_1003 {
+public class PAT_B1003 {
     // 字符串中必须仅有 P、 A、 T这三种字符
     private static boolean checkAllChPAT(String input) {
         List<String> PATList = List.of("P", "A", "T");

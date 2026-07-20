@@ -13,7 +13,7 @@ class PrimeIndex {
     int end;
 }
 
-public class Basic_1013 {
+public class PAT_B1013 {
     private static final int MAX = 150000;
     private static boolean[] primes = new boolean[MAX];
 

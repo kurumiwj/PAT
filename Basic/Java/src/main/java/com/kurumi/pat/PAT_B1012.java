@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @Date 2025-10-26 11:01:57
  * @Description 1012 数字分类
  */
-public class Basic_1012 {
+public class PAT_B1012 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

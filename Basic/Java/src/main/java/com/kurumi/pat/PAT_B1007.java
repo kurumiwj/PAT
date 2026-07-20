@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @Date 2025-10-18 下午12:59:34
  * @Description 1007 素数对猜想
  */
-public class Basic_1007 {
+public class PAT_B1007 {
     private static void initPrimes(boolean[] primes, int n) {
         primes[0] = false;
         primes[1] = false;
