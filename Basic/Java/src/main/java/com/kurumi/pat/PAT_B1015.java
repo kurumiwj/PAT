@@ -18,7 +18,7 @@ public class PAT_B1015 {
 
         @Override
         public String toString() {
-            return "%s %d %d".formatted(id, moral, ability);
+            return String.format("%s %d %d", id, moral, ability);
         }
     }
 
